@@ -131,10 +131,9 @@ The CLI is based on this [boilerplate](https://github.com/tbjgolden/inferno-mode
 
 Here are some example libraries that have been bootstrapped with `create-inferno-library`.
 
-- ... and hundreds more!
+- [`inferno-google-recaptcha-v3`](https://github.com/tbjgolden/inferno-google-recaptcha-v3)
 
 Want to add yours to the list? Submit an [issue](https://github.com/tbjgolden/create-inferno-library/issues/new).
-
 
 ## License
 
